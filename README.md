@@ -1,1 +1,0 @@
-# Madden-20-Team-Playbook-Editor
