@@ -8,6 +8,7 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 
 Copy/Paste Plays
 
-1. Select play and CTRL+C
-2. Select a SubFormation and CTRL+P
+1. Select Play CTRL+C
+2. Select a SubFormation CTRL+P
+
 *** Works with multiple instances running.
