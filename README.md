@@ -7,8 +7,7 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
-## v1.1
-Copy/Paste Sub Formations and Formations
+## v1.1 - Copy/Paste Sub Formations and Formations
 
 Copy Formation/Sub Formation: Select Formation/Sub Formation, CTRL+C or Options>Copy
 
@@ -18,8 +17,7 @@ Insert Sub Formation in Formation: Select Sub Formation in Formation, CTRL+V or 
 
 Append Sub Formation to Formation: Select Formation, CTRL+V or Options>Paste to append Sub Formation to end of list.
 
-## v1.0
-Copy/Paste Plays
+## v1.0 - Copy/Paste Plays
 
 Copy Play: Select Play, CTRL+C or Options>Copy
 
