@@ -7,6 +7,14 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v1.2 - Delete Play
+
+Select a play and press delete
+
+Removes the play and all it's psals, plpd, plrd and any other data not used in any other plays
+
+NO UNDO!
+
 ## v1.1 - Copy/Paste Sub Formations and Formations
 
 Copy Formation/Sub Formation: Select Formation/Sub Formation, CTRL+C or Options>Copy
