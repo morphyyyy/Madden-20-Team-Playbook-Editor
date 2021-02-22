@@ -7,6 +7,12 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v1.3 - Delete SubFormations and Formations
+
+Select a SubFormation/Formation and press delete
+
+Removes SubFormation/Formation and all relevant data
+
 ## v1.2 - Delete Play
 
 Select a play and press delete
