@@ -7,6 +7,15 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+
+## v1.3.1 - Bug fixes
+
+Deleted tables save properly now
+
+Delete Sub-Formation working, except for Hail Mary or and Sub-Formations
+
+Delete Formation disabled (buggy) - 2 tables
+
 ## v1.3 - Delete SubFormations and Formations
 
 Select a SubFormation/Formation and press delete
