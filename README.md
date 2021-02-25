@@ -10,7 +10,7 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 
 ## v1.3.1 - Bug fixes
 
-Deleted tables save properly now
+Deleted tables save properly
 
 Delete Sub-Formation working, except for Hail Mary or and Sub-Formations
 
