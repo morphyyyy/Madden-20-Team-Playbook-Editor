@@ -12,7 +12,7 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 
 Deleted tables save properly
 
-Delete Sub-Formation works, except for Hail Mary or and Sub-Formations
+Delete Sub-Formation works, except for Hail Mary and mixed Sub-Formations
 
 Delete Formation disabled (buggy) - 2 tables
 
