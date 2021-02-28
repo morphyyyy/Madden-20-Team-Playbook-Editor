@@ -7,6 +7,9 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v1.4 - More bug fixes
+
+Delete, Copy, Paste is fully functional
 
 ## v1.3.1 - Bug fixes
 
