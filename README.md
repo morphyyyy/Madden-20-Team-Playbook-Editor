@@ -7,6 +7,12 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.0 - Compatibility with Custom Playbook Editor
+
+Supports Copy/Paste from Custom Playbook Editor
+
+https://github.com/morphyyyy/M20PlaybookEditor
+
 ## v1.4 - Delete, Copy, Paste is fully functional
 
 ## v1.3.1 - Bug fixes
