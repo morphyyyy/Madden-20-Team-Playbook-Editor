@@ -7,6 +7,8 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.1.2 - Bug Fixes Pasting Sub-Formations and Plays
+
 ## v2.0.1 - Fix for 7 on 7 (FCF)
 
 Fixed a crash when pasting plays with empty or Null PSALs
