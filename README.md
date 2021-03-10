@@ -9,6 +9,8 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 
 ## v2.1.4 - Copy/Paste entire Formations, Sub-Formations and Plays from CPB to TPB
 
+Pasting entire Formations from CPBE can be slow, like 30 minutes for all shotgun.  Let it go.
+
 ## v2.1.3 - Bug Fixes with Copy/Paste from CPB to TPB
 
 ## v2.1.2 - Bug Fixes Pasting Sub-Formations and Plays
