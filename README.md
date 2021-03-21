@@ -7,7 +7,7 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
-## v2.1.5 - Drag and Drop Re-Ordering
+## v2.1.5 - Drag and Drop Reordering
 
 Re-Order Formations, Sub-Formations and Plays with Drag and Drop
 
