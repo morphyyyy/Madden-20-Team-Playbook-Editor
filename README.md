@@ -7,6 +7,10 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.1.5 - Drag and Drop Re-Ordering
+
+Re-Order Formations, Sub-Formations and Plays with Drag and Drop
+
 ## v2.1.4 - Copy/Paste entire Formations, Sub-Formations and Plays from CPB to TPB
 
 Pasting entire Formations from CPBE can be slow, like 30 minutes for all shotgun.  Let it go.
