@@ -7,7 +7,9 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
-## v2.1.6 - Fix for some 21 team db with missing PSALs and ARTL
+## v2.1.8 - Disabled PBAI when pasting from CPB
+
+## v2.1.7 - Fix for some 21 team db with missing PSALs and ARTL
 
 ## v2.1.6 - Reoriented Plays vertically left to right
 
