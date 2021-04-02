@@ -7,6 +7,10 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.1.9 - Added Generate Audibles function
+
+Quickly fill all Sub-Formations with proper audibles where they exist. Quick Pass, HB Dive, Deep Pass and PA
+
 ## v2.1.8 - Disabled PBAI when pasting from CPB
 
 ## v2.1.7 - Fix for some 21 team db with missing PSALs and ARTL
