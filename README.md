@@ -7,6 +7,13 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.2.1 - Added more PLYT checks to Generate Audibles Function
+
+X = 101, 102, ,103, 159, 4
+Y = 195, 151, 169, 196, 197, 205, 207
+LB = 101, 102, ,103, 159, 4
+RB = 4, 101, 102, ,103, 159
+
 ## v2.2 - Bug Fixes
 
 ARTL was not serialized and was crashing on copy/paste sometimes
