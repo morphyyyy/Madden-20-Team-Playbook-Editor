@@ -7,6 +7,8 @@ App is located in Madden20PlaybookEditor\Madden20PlaybookEditor\bin\Release
 **All files need to live in the same folder to work correctly.
 *** Works with multiple instances running.
 
+## v2.2.2 - Added checks for existing Formations and Sub-Formations when pasting
+
 ## v2.2.1 - Added more PLYT checks to Generate Audibles Function
 
 X = 101, 102, ,103, 159, 4
